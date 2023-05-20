@@ -1,8 +1,9 @@
 ### Olá! Eu me chamo Isaque Rodrigues, seja bem-vindo!
-<div>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=shellookk&show_icons=true&theme=tokyonight">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shellookk&layout=compact&theme=tokyonight"/>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img align="center" width="402px" src="https://github-readme-stats.vercel.app/api?username=shellookk&show_icons=true&theme=tokyonight">
+  <img align="center" width="305px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shellookk&layout=compact&theme=tokyonight"/>
 </div>
+
 
 <div style="display: incline_block"><br>
   <img align="center" alt="shellookk-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
