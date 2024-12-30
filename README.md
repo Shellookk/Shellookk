@@ -2,7 +2,7 @@
 <div style="display: flex; align-items: center; justify-content: center;">
   
   
-  <img align="center" width="305px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shellookk&count_private=true&layout=compact&theme=tokyonight"/>
+  <img align="center" width="305px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shellookk&layout=donut&theme=tokyonight&hide=python,CMake,PowerShell,C%2B%2B,Java,Swift"/>
 </div>
 
 
